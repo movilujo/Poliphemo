@@ -8,4 +8,4 @@
 
 # Poliphemo
 
-<img src="images/Poliphemo4.jpeg" width="300" align="center">
+<img src="Images/Poliphemo4.jpeg" width="300" align="center">
