@@ -7,3 +7,5 @@
 </table>
 
 # Poliphemo
+
+<img src="images/Poliphemo4.jpg" width="300" align="center">
