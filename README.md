@@ -13,6 +13,7 @@ Poliphemo es un printBot (Robot cuyas piezas están fabricadas con una impresora
 Además, la idea es que se le puedan acoplar otros tipos de sensores: infrarrojos para siguelíneas, sensores de luz, etc. Y a ser posible con un sistema que permita el cambio rapido de sensores y que se adapte a la forma de cualquier tipo de sensor (siempre que sea factible por tamaño)
 
 <img src="Images/Poliphemo4.jpeg" width="300" align="center">
+<img src="Images/poliphemo.png" width="300" align="center">
 
 # Licencia
 
